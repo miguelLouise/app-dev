@@ -1,2 +1,4 @@
-# app-dev
-My first Repository
+{
+"Favorite Series": "Moneyheist"
+"Favorite Movie": "The shawshank Redemption"
+}
